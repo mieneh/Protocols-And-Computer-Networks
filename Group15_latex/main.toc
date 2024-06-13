@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}GIỚI THIỆU VÀ KHẢO SÁT}{12}{}%
+\contentsline {subsection}{\numberline {1.1}Giới thiệu đề tài}{12}{}%
+\contentsline {subsection}{\numberline {1.2}Mô tả đề tài}{14}{}%
+\contentsline {subsection}{\numberline {1.3}Khảo sát thực tế}{15}{}%
+\contentsline {section}{\numberline {2}MÔ HÌNH HỆ THỐNG}{17}{}%
+\contentsline {subsection}{\numberline {2.1}Sơ đồ luận lý (Logical Topology)}{17}{}%
+\contentsline {subsection}{\numberline {2.2}Sơ đồ vật lý (Physical Topology)}{17}{}%
+\contentsline {section}{\numberline {3}THÔNG TIN CÀI ĐẶT CẤU HÌNH HỆ THỐNG}{18}{}%
+\contentsline {subsection}{\numberline {3.1}Thông tin vlan, interface vlan trong hệ thống}{18}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}\textit {Thông tin vlan}}{18}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}\textit {Thông tin interface vlan}}{18}{}%
+\contentsline {subsection}{\numberline {3.2}\textit {Thông tin thiết kế quy hoạch địa chỉ IP}}{19}{}%
+\contentsline {section}{\numberline {4}CẤU HÌNH HẠ TẦNG}{20}{}%
+\contentsline {subsection}{\numberline {4.1}Cấu hình vlan, interface, port channel}{20}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}\textit {Cấu hình vlan}}{20}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}\textit {Cấu hình interface}}{23}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}\textit {Cấu hình port channel}}{31}{}%
+\contentsline {subsection}{\numberline {4.2}Cấu hình server}{32}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}\textit {DHCP server}}{32}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}\textit {DNS server}}{34}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}\textit {Web server và dịch vụ web}}{36}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}\textit {Mail server}}{39}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}\textit {FTP Server}}{44}{}%
+\contentsline {subsection}{\numberline {4.3}Cấu hình định tuyến OSPF}{50}{}%
+\contentsline {subsection}{\numberline {4.4}Cấu hình STP và HSRP}{53}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}\textit {Cấu hình STP}}{53}{}%
+\contentsline {subsubsection}{\numberline {4.4.2}\textit {Cấu hình HSRP}}{54}{}%
+\contentsline {subsection}{\numberline {4.5}Cấu hình Wifi}{56}{}%
+\contentsline {section}{\numberline {5}KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN}{60}{}%
+\contentsline {subsection}{\numberline {5.1}Kết quả đạt được}{60}{}%
+\contentsline {subsection}{\numberline {5.2}Hạn chế}{60}{}%
+\contentsline {subsection}{\numberline {5.3}Định hướng}{60}{}%
+\contentsline {section}{\numberline {6}TÀI LIỆU THAM KHẢO}{61}{}%
